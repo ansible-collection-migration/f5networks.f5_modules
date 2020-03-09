@@ -1,0 +1,16 @@
+namespace: f5networks
+name: f5_modules
+version: 0.1.0
+readme: README.md
+authors: null
+description: null
+license: GPL-3.0-or-later
+license_file: COPYING
+tags: null
+dependencies:
+  ansible.netcommon: '>=0.1.0'
+  community.general: '>=0.1.0'
+repository: git@github.com:ansible-collection-migration/f5networks.f5_modules.git
+documentation: https://github.com/ansible-collection-migration/f5networks.f5_modules/tree/master/docs
+homepage: https://github.com/ansible-collection-migration/f5networks.f5_modules
+issues: https://github.com/ansible-collection-migration/f5networks.f5_modules/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc
